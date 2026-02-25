@@ -24,8 +24,18 @@ The skill follows Vercel's skills.sh format with:
 
 ## Next Steps:
 
-1. Publish to skills.sh if desired
-2. Use with AI agents for PHP code review/generation
-3. Extend with more specific PHP framework rules (Laravel, Symfony, etc.)
+✅ **Skill Deployed to GitHub:** https://github.com/developerfred/php-best-practices-skill
+✅ **Ready for skills.sh:** Use `npx skills add developerfred/php-best-practices-skill`
 
+## Skill Discovery:
+
+The skill should appear on skills.sh over time as it gets installations. As people install it,
+it will rank on the skills.sh leaderboard based on anonymous telemetry data.
+
+## Further Development:
+
+1. Add more PHP framework-specific rules (Laravel, Symfony, etc.)
+2. Create more specialized examples
+3. Add GitHub Actions for automated testing
+4. Create documentation website
 seguindo o padrao do vercel https://skills.sh/
