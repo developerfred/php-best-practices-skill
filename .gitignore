@@ -1,0 +1,50 @@
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Composer files
+composer.lock
+composer.phar
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+/build/
+/dist/
+
+# Temporary files
+/tmp/
+/temp/
+
+# Test coverage
+coverage/
+.phpunit.result.cache
+
+# Local development
+*.local.*
+
+# PHPUnit cache
+.phpunit.cache
+
+# Composer vendor
+/vendor/bin/
+
+# Skills.sh deployment cache
+.skills-cache/
