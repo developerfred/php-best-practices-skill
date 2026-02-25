@@ -1,0 +1,42 @@
+{
+  "name": "php-best-practices-skill",
+  "version": "1.0.0",
+  "description": "PHP best practices skill for AI agents based on TiendaNube guidelines",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "analyze": "./scripts/analyze-php-code.sh"
+  },
+  "keywords": [
+    "php",
+    "best-practices",
+    "clean-code",
+    "solid",
+    "skills",
+    "ai-agent",
+    "vercel",
+    "skills.sh"
+  ],
+  "author": "developerfred",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerfred/php-best-practices-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/developerfred/php-best-practices-skill/issues"
+  },
+  "homepage": "https://github.com/developerfred/php-best-practices-skill#readme",
+  "skill": {
+    "name": "php-best-practices",
+    "description": "PHP programming best practices and clean code guidelines from TiendaNube and the PHP community",
+    "triggers": [
+      "php",
+      "best practices",
+      "clean code",
+      "solid",
+      "refactoring",
+      "code review"
+    ]
+  }
+}
